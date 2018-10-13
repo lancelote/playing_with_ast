@@ -2,9 +2,14 @@
 
 Example code for manipulating Python "AST"
 
+## Useful Lings
+
+- [Green Tree Snakes tutorial][1] on Python AST
+- [List of AST nodes][7] form "Green Tree Snakes" tutorial
+
 ## TOC
 
-- [ ] [Green Tree Snakes tutorial][1]
+- [x] [Green Tree Snakes tutorial](green_tree_snakes/sample.ipynb)
 
 ## TODO
 
@@ -13,6 +18,7 @@ Example code for manipulating Python "AST"
     - [ ] [Meta][3]
     - [ ] [uncompyle6][4]
 - [ ] [AST manipulating commands][5]
+- [ ] [ASTsearch][6] library
 
 
 [1]: https://greentreesnakes.readthedocs.io/en/latest/
@@ -20,3 +26,5 @@ Example code for manipulating Python "AST"
 [3]: https://github.com/srossross/Meta
 [4]: https://github.com/rocky/python-uncompyle6/
 [5]: https://greentreesnakes.readthedocs.io/en/latest/tofrom.html#fixing-locations
+[6]: https://astsearch.readthedocs.io/en/latest/
+[7]: https://greentreesnakes.readthedocs.io/en/latest/nodes.html
