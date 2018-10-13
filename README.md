@@ -6,7 +6,7 @@ Example code for manipulating Python "AST"
 
 - [Green Tree Snakes tutorial][1] on Python AST
 - [List of AST nodes][7] form "Green Tree Snakes" tutorial
-- [`ast` module]][8]official docs
+- [`ast` module][8]official docs
 
 ## TOC
 
