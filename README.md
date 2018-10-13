@@ -6,6 +6,7 @@ Example code for manipulating Python "AST"
 
 - [Green Tree Snakes tutorial][1] on Python AST
 - [List of AST nodes][7] form "Green Tree Snakes" tutorial
+- [`ast` module]][8]official docs
 
 ## TOC
 
@@ -28,3 +29,4 @@ Example code for manipulating Python "AST"
 [5]: https://greentreesnakes.readthedocs.io/en/latest/tofrom.html#fixing-locations
 [6]: https://astsearch.readthedocs.io/en/latest/
 [7]: https://greentreesnakes.readthedocs.io/en/latest/nodes.html
+[8]: https://docs.python.org/3/library/ast.html
