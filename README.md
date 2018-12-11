@@ -6,11 +6,13 @@ Example code for manipulating Python "AST"
 
 - [Green Tree Snakes tutorial][1] on Python AST
 - [List of AST nodes][7] form "Green Tree Snakes" tutorial
-- [`ast` module][8]official docs
+- [`ast` module][8] official docs
+- [The AST and Me][9] talk by Emily Morehouse-Valcarcel
 
 ## TOC
 
 - [x] [Green Tree Snakes tutorial](green_tree_snakes/sample.ipynb)
+- [x] [The AST and Me](ast_and_me/sample.ipynb)
 
 ## TODO
 
@@ -30,3 +32,4 @@ Example code for manipulating Python "AST"
 [6]: https://astsearch.readthedocs.io/en/latest/
 [7]: https://greentreesnakes.readthedocs.io/en/latest/nodes.html
 [8]: https://docs.python.org/3/library/ast.html
+[9]: https://youtu.be/XhWvz4dK4ng
