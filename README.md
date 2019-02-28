@@ -16,6 +16,7 @@ Example code for manipulating Python "AST"
 
 ## TODO
 
+- [ ] [Hacking Python AST: checking methods declaration][10]
 - [ ] AST manipulating libraries
     - [ ] [astor][2]
     - [ ] [Meta][3]
@@ -33,3 +34,4 @@ Example code for manipulating Python "AST"
 [7]: https://greentreesnakes.readthedocs.io/en/latest/nodes.html
 [8]: https://docs.python.org/3/library/ast.html
 [9]: https://youtu.be/XhWvz4dK4ng
+[10]: https://julien.danjou.info/python-ast-checking-method-declaration/
